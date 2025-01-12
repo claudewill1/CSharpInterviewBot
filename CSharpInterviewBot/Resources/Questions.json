@@ -1,0 +1,27 @@
+{
+  "Object-Oriented Programming (OOP)": [
+    "In OOP, what is encapsulation and why is it important?",
+    "Using an example, explain the concept of inheritance in C#.",
+    "What is polymorphism? Provide an example in C#.",
+    "How does abstraction differ from encapsulation?",
+    "Explain what a sealed class is in C#.",
+    "What is the differences between and abstract class and an interface in C#?",
+    "How do you implement multiple inheritance in C#?",
+    "What is method overriding, and how does it work in C#?",
+    "Define and give an example of method overloading.",
+    "What is a virtual method, and when would you use it?",
+    "Explain what a constructor and a destructor are in C#.",
+    "What is the purpose of the this keyword in C#?",
+    "Can a C# class inherit from multiple classes? Why or why not?",
+    "How does the base keyword function in C#?",
+    "What is an object in OOP?",
+    "In C#, what is the definition of a static class? What are its use cases?",
+    "How do you prevent the instantiation of a class?",
+    "Give an explanation of the differences between public, private, and protected access modifiers,",
+    "How would you implement a singleton pattern in C#?",
+    "What is an interface, and how does it enforce polymorphism?"
+  ],
+  ".NET Framework": [],
+  "Microsoft SQL": [],
+  "APIs": []
+}
